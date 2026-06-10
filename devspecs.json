@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/devspecs-com/devspecs-cli/releases/download/v0.1.0/devspecs_0.1.0_windows_x86_64.zip",
+            "url": "https://github.com/devspecs-com/devspecs-cli/releases/download/v1.0.0/devspecs_1.0.0_windows_x86_64.zip",
             "bin": [
                 "ds.exe"
             ],
-            "hash": "794018668e708716b35baec8c1ca3b5234f8bbdb3216de62fc265a31eb73bbc1"
+            "hash": "b4ee35399174d4c4513b4845a3f3596ac230bccacfecf3fe508e1d7f8cc2c0cb"
         }
     },
     "homepage": "https://github.com/devspecs-com/devspecs-cli",
